@@ -1,4 +1,4 @@
-# # Web Scraping GSM Arena for Mobile Device Weights
+# Web Scraping GSM Arena for Mobile Device Weights
 
 This Python script is designed to scrape the [GSM Arena](https://www.gsmarena.com) website to find and collect the weights of various mobile devices. It takes a list of mobile devices from an Excel file, performs a search on GSM Arena, and extracts the weight information for each device. The collected data is then saved to another Excel file.
 
